@@ -56,10 +56,6 @@
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ScreenshotX_1.0.ipa"
         },
 
-
-
-
-
         {
             "iconURL": "https://senumy.com/wp-content/uploads/2023/10/PureKFD_logo.png",
             "name": "PureKFD",
@@ -68,10 +64,24 @@
         },
 
         {
-            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p4FQLeouEPcDagtfV_oLdr_HVlfTB0Hfsg&usqp=CAU",
-            "name": "Filza NoURL",
-            "description": "Bạn có thể cài đặt Filza vào hệ thống iPhone mà không cần Jailbreak máy, để có thể quản lý hoàn toàn tệp tin của mình trên thiết bị.",
-            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Filza-NoURL_3.9.8_TS.ipa"
+            "iconURL": "https://hhnipa.github.io/img/tool.png",
+            "name": "TrollTool",
+            "description": "Ứng dụng tinh chỉnh iphone, sử dụng Trollstore.",
+            "downloadURL": "apple-magnifier://install?url=https://objects.githubusercontent.com/github-production-release-asset-2e65be/555414860/badc0e58-16c8-4f76-b38b-4ddd81e4e26b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231129%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231129T090410Z&X-Amz-Expires=300&X-Amz-Signature=b4bacc6343c1ee4b7a894e0d4703ca2b6b7a1530ddce8421512c8111a713df44&X-Amz-SignedHeaders=host&actor_id=137310130&key_id=0&repo_id=555414860&response-content-disposition=attachment%3B%20filename%3DTrollTools.tipa&response-content-type=application%2Foctet-stream"
+        },
+
+        {
+            "iconURL": "https://camo.githubusercontent.com/ecae503805741958bd534f67e019914223077218d1464191de96adf805b4af92/68747470733a2f2f692e6962622e636f2f62354d70776d4b2f556e7469746c65642d6d6f6469666965642e706e67",
+            "name": "TrollBox",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/c22dev/TrollBox/releases/download/0.1/TrollBox.tipa"
+        },
+
+        {
+            "iconURL": "https://hhnipa.github.io/img/airtroll.png",
+            "name": "AirTroller",
+            "description": "AirDrop spam/làm tràn để troll bạn bè",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/sourcelocation/AirTroller/releases/download/1.1.1/AirTroller-1.1.1.tipa"
         },
 
         {
