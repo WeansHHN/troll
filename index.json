@@ -1,38 +1,59 @@
 {
     "apps": [
         {
-            "iconURL": "https://hackstore.hhnios.site/Other/icon/LQ.png",
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
             "name": "AppStore++",
-            "description": "Liên Quân Mobile Mod Menu H5GG",
-            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppStore++_1.0.3.ipa"
+            "description": "Tinh chỉnh AppStore++ cho TrollStore. Cho phép bạn hạ cấp các ứng dụng đã cài đặt",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa"
         },
 
         {
-            "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
+            "iconURL": "https://github.com/Lessica/TrollSpeed/blob/main/layout/Applications/XXTAssistiveTouch.app/icon.png?raw=true",
             "name": "TrollSpeed",
-            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
         },
 
         {
-            "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
+            "iconURL": "https://github.com/leminlimez/Helium/blob/main/src/assets/credits/leminlimez.png?raw=true",
             "name": "Helium",
-            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "description": "Helium là một hệ thống tiện ích Thanh trạng thái mới dành cho TrollStore và các thiết bị đã bẻ khóa.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium_1.0.ipa"
         },
 
         {
-            "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/06600550-35F6-4057-A8B7-B55952C78C48.png?raw=true",
             "name": "LocSim",
-            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "description": "Các nhà phát triển đang sử dụng trình cài đặt TrollStore để phát hành các ứng dụng bao gồm các chỉnh sửa hệ thống hữu ích cho iOS 15 mà không cần bẻ khóa. Một trong những cải tiến đáng chú ý nhất hiện có là Mô phỏng vị trí, một công cụ đặc biệt cung cấp nhiều tính năng, bao gồm khả năng đặt vị trí GPS giả trên thiết bị iOS 15.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/LocSim_1.3.2.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/leminlimez/SecondHand/blob/main/SecondHand/Assets.xcassets/AppIcon.appiconset/SecondHand-3.png?raw=true",
+            "name": "Second Hand",
+            "description": "Thêm giây và ngày vào đồng hồ trên thanh trạng thái trên các thiết bị TrollStore Tương thích với iOS 14.0-15.4.1",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Second.Hand_1.3.ipa"
         },
 
         {
             "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
             "name": "Misaka",
-            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/C7E22BD4-17C9-4910-BAB6-53FC38C96DB4.png?raw=true",
+            "name": "Picasso v3",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Picasso_v3_Open_Beta_3.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/ScreenShotx.png?raw=trueraw=true",
+            "name": "ScreenshotX",
+            "description": "ScreenshotX là ứng dụng ghép ảnh hình thức chụp màn hình , bạn có thể chọn Model các dòng iphone từ 6s đến 14 ProMax với nhiều phong cách khác nhau.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ScreenshotX_1.0.ipa"
         }
     ]
 }
