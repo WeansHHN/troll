@@ -54,6 +54,45 @@
             "name": "ScreenshotX",
             "description": "ScreenshotX là ứng dụng ghép ảnh hình thức chụp màn hình , bạn có thể chọn Model các dòng iphone từ 6s đến 14 ProMax với nhiều phong cách khác nhau.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ScreenshotX_1.0.ipa"
+        },
+
+
+
+
+
+        {
+            "iconURL": "https://senumy.com/wp-content/uploads/2023/10/PureKFD_logo.png",
+            "name": "PureKFD",
+            "description": "Ứng dụng tinh chỉnh iphone, khai thác lỗ hổng bảo mật KFD và MDC.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/PureKFD.ipa"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7p4FQLeouEPcDagtfV_oLdr_HVlfTB0Hfsg&usqp=CAU",
+            "name": "Filza NoURL",
+            "description": "Bạn có thể cài đặt Filza vào hệ thống iPhone mà không cần Jailbreak máy, để có thể quản lý hoàn toàn tệp tin của mình trên thiết bị.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Filza-NoURL_3.9.8_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://avatars.githubusercontent.com/u/74475614?v=4",
+            "name": "H5GG",
+            "description": "H5GG - một công cụ gian lận iOS dành cho API JavaScript và giao diện người dùng HTML5",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/h5gg.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/s8ngyu/red-dot/blob/main/reddot/Assets.xcassets/AppIcon.appiconset/imgonline-com-ua-resize-0z0l5nkgeDpRMkf.jpg?raw=true",
+            "name": "RedDot",
+            "description": "Đổi màu badget thông báo trên icon app.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/RedDot_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7JmQl7Km3aLSe0YYtz1zeB0r6bQibmIU0fA&usqp=CAU",
+            "name": "AppsManager",
+            "description": "Trình quản lí ứng dụng, sao lưu và khôi phục dữ liệu App. Đã crack không giới hạn App.",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppsManager.Trollstore.2.ipa"
         }
     ]
 }
