@@ -2,16 +2,37 @@
     "apps": [
         {
             "iconURL": "https://hackstore.hhnios.site/Other/icon/LQ.png",
-            "name": "Liên Quân Mobile",
+            "name": "AppStore++",
             "description": "Liên Quân Mobile Mod Menu H5GG",
-            "downloadURL": "apple-magnifier://install?url=https://hackstore.hhnios.site/Other/plist/LQH5GG.plist"
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppStore++_1.0.3.ipa"
         },
 
         {
             "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
-            "name": "Free Fire Hack",
+            "name": "TrollSpeed",
             "description": "Free Fire Mod Menu H5GG, iGG Menu",
-            "downloadURL": "apple-magnifier://install?url=https://hackstore.hhnios.site/Other/plist/FFHACK.plist"
+            "downloadURL": "apple-magnifier://install?url=https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
+        },
+
+        {
+            "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
+            "name": "Helium",
+            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Helium_1.0.ipa"
+        },
+
+        {
+            "iconURL": "https://hackstore.hhnios.site/Other/icon/FF.png",
+            "name": "LocSim",
+            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/LocSim_1.3.2.ipa"
+        },
+
+        {
+            "iconURL": "https://pbs.twimg.com/profile_images/1120870317319053313/x7u1wDn5_400x400.jpg",
+            "name": "Misaka",
+            "description": "Free Fire Mod Menu H5GG, iGG Menu",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/misaka.ipa"
         }
     ]
 }
