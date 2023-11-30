@@ -145,6 +145,34 @@
             "name": "Cowabubga",
             "description": "Ứng dụng tinh chỉnh máy của bạn (Ver 10.3.2)",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Cowabunga_10.3.2.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Tssaver.jpeg",
+            "name": "Tsssaver",
+            "description": "Ứng dụng lưu SHSH blobs",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/tsssaver.ipa"
+        },
+
+        {
+            "iconURL": "https://repo.packix.com/media/com.ikilledappl3.theostips/icon.png",
+            "name": "Theos Tips",
+            "description": "Hướng dẫn sử dụng Theos",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/theostips_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://raw.githubusercontent.com/Skittyblock/WallpaperSetter/main/WallpaperSetter/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5%402x.png",
+            "name": "WallpapperSetter",
+            "description": "Wallpapper",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/WallpaperSetter_TS.ipa"
+        },
+
+        {
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Wifiscanner.png",
+            "name": "Wifi Scanner",
+            "description": "Tìm kiếm Wifi",
+            "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/wifiscanner_TS.ipa"
         }
     ]
 }
