@@ -139,6 +139,7 @@
             "description": "Ứng dụng xuất IPA",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/TrollDecryptor.tipa"
         },
+        
         {
             "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
             "name": "Cowabubga",
