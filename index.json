@@ -104,30 +104,35 @@
             "description": "Trình quản lí ứng dụng, sao lưu và khôi phục dữ liệu App. Đã crack không giới hạn App.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppsManager.Trollstore.2.ipa"
         },
+
         {               
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/5105D798-F86F-4AC7-8C1F-48A726906E6D.png?raw=true",
             "name": "Flex 3 Beta",
             "description": "Kho chứa các Patch và tự tạo Patch",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Flex3.ipa"
         },
+
         {
             "iconURL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png",
             "name": "Terminal",
             "description": "Terminal",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/Terminal-7.ipa"
         },
+
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/AppDumps.png?raw=true",
             "name": "AppsDump2",
             "description": "Ứng dụng xuất ipa",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/AppDump2.tipa"
         },
+
         {
             "iconURL": "https://github.com/powenn/ModMyIPA/blob/main/ModMyIPA/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true",
             "name": "ModMyIPA",
             "description": "Chỉnh sửa và thay dổi IPA",
             "downloadURL": "apple-magnifier://install?url=https://github.com/WeansHHN/troll/releases/download/Trollstoreipa/ModMyIPA-1.0.2.ipa"
         },
+
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Trolldec.png?raw=true",
             "name": "Trolldecrytor",
