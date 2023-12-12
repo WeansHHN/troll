@@ -8,7 +8,7 @@
         },
 
         {
-            "iconURL": "https://github.com/Lessica/TrollSpeed/blob/main/layout/Applications/XXTAssistiveTouch.app/icon.png?raw=true",
+            "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/TrollSpeed.png?raw=true",
             "name": "TrollSpeed",
             "description": "Hiển thị tốc độ tải lên và tải xuống bên dưới thanh trạng thái. Dựa trên TrollStore của opa334.",
             "downloadURL": "apple-magnifier://install?url=https://github.com/Lessica/TrollSpeed/releases/download/v1.8.2/TrollSpeed_1.8.2.tipa"
