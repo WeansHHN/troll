@@ -2,7 +2,7 @@
     "apps": [
         {
             "iconURL": "https://github.com/WeansHHN/troll/blob/main/icon/Appstore++.png?raw=true",
-            "name": "AppStore++",
+            "name": "AppStore+++",
             "description": "Tinh chỉnh AppStore++ cho TrollStore. Cho phép bạn hạ cấp các ứng dụng đã cài đặt",
             "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa"
         },
