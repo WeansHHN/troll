@@ -1,22 +1,22 @@
 {
-    "icons": [
-        {
-            "id": 1,
-            "name": "Icon 1",
-            "imageUrl": "https://example.com/icon1.png",
-            "description": "Description of Icon 1"
-        },
-        {
-            "id": 2,
-            "name": "Icon 2",
-            "imageUrl": "https://example.com/icon2.png",
-            "description": "Description of Icon 2"
-        },
-        {
-            "id": 3,
-            "name": "Icon 3",
-            "imageUrl": "https://example.com/icon3.png",
-            "description": "Description of Icon 3"
-        }
-    ]
+  "themes": [
+    {
+      "id": 1,
+      "themeName": "Theme 1",
+      "themeDescription": "Description for Theme 1"
+      // Thêm các trường dữ liệu khác từ API của bạn
+    },
+    {
+      "id": 2,
+      "themeName": "Theme 2",
+      "themeDescription": "Description for Theme 2"
+      // Thêm các trường dữ liệu khác từ API của bạn
+    },
+    {
+      "id": 3,
+      "themeName": "Theme 3",
+      "themeDescription": "Description for Theme 3"
+      // Thêm các trường dữ liệu khác từ API của bạn
+    }
+  ]
 }
