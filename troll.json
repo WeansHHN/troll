@@ -1,19 +1,20 @@
 {
-  "themes": [
-    {
-      "id": 1,
-      "themeName": "Theme 1",
-      "themeDescription": "Description for Theme 1"
-    },
-    {
-      "id": 2,
-      "themeName": "Theme 2",
-      "themeDescription": "Description for Theme 22"
-    },
-    {
-      "id": 3,
-      "themeName": "Theme 3",
-      "themeDescription": "Description for Theme 3"
-    }
-  ]
+    "themes": [
+        {
+            "id": 1,
+            "themeName": "Nature",
+            "themeDescription": "Explore the beauty of nature"
+        },
+        {
+            "id": 2,
+            "themeName": "Technology",
+            "themeDescription": "Discover the world of technology"
+        },
+        {
+            "id": 3,
+            "themeName": "Art",
+            "themeDescription": "Experience artistic creations"
+        }
+    ]
 }
+
