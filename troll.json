@@ -18,6 +18,5 @@
             "imageUrl": "https://example.com/icon3.png",
             "description": "Description of Icon 3"
         }
-        // Thêm các đối tượng icon khác nếu cần
     ]
 }
