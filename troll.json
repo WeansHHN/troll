@@ -4,19 +4,16 @@
       "id": 1,
       "themeName": "Theme 1",
       "themeDescription": "Description for Theme 1"
-      // Thêm các trường dữ liệu khác từ API của bạn
     },
     {
       "id": 2,
       "themeName": "Theme 2",
-      "themeDescription": "Description for Theme 2"
-      // Thêm các trường dữ liệu khác từ API của bạn
+      "themeDescription": "Description for Theme 2
     },
     {
       "id": 3,
       "themeName": "Theme 3",
       "themeDescription": "Description for Theme 3"
-      // Thêm các trường dữ liệu khác từ API của bạn
     }
   ]
 }
